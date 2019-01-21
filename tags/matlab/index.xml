@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matlab on Haozhe Su</title>
+    <link>https://SoldierDown.github.io/tags/matlab/</link>
+    <description>Recent content in matlab on Haozhe Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
+    <lastBuildDate>Wed, 15 Feb 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://SoldierDown.github.io/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MatConvNet modules for 2-D RNNs (LSTM, GRU)</title>
+      <link>https://SoldierDown.github.io/post/lstm2d/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/lstm2d/</guid>
+      <description>Checkout the code on Github
+Implementation of various 2-D RNN modules is included:
+ 2-D RNN 2-D LSTM  Vanilla With &amp;ldquo;peephole connections&amp;ldquo; With coupled forget and input gates  2-D GRU  </description>
+    </item>
+    
+    <item>
+      <title>MatConvNet modules for 2-D RNNs (LSTM, GRU)</title>
+      <link>https://SoldierDown.github.io/project/lstm2d/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/lstm2d/</guid>
+      <description>Checkout our code</description>
+    </item>
+    
+    <item>
+      <title>Tools for Axis Label Alignment in MATLAB</title>
+      <link>https://SoldierDown.github.io/post/matlab-axis-align/</link>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/matlab-axis-align/</guid>
+      <description>Checkout the code on File Exchange or Github
+This is a simple MATLAB function for axis label alignment. If you have ever struggled with the label alignment issue in MATLAB&amp;rsquo;s 3-D plots &amp;mdash; by default axis labels are placed horizontally no matter how you rotate the plot &amp;mdash; here is a simple fix.
+It still works when Projection mode is Perspective or when DataAspectRatio is not [1 1 1].</description>
+    </item>
+    
+    <item>
+      <title>Decision-based surface profile determination from multiple sonar data</title>
+      <link>https://SoldierDown.github.io/project/ultrasonic-sensor/</link>
+      <pubDate>Sun, 15 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/ultrasonic-sensor/</guid>
+      <description>A method of using multiple uniform distributed ultrasonic sensors to collect spatial data and model geometrical characteristic of the environment with partial information is introduced. Improving traditional method of approximation based on inefficient data. Detecting real-time objects’ movement including position, direction and velocity within 3m. Using FPGA to control time-divided detecting among groups so that interference between sensors are mostly reduced, and send real-time environment information to host computer with serial interface.</description>
+    </item>
+    
+    <item>
+      <title>Tools for 2-D Tomographic Reconstruction</title>
+      <link>https://SoldierDown.github.io/post/tomo/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/tomo/</guid>
+      <description>Checkout the code on File Exchange or Github
+There are two main methods for tomographic reconstruction: 1. Filtered back-projection or FBP which is based on Radon transform and its inverse transform; 2. Algebraic reconstruction technique or ART which is based on solving linear algebra equations.
+The MATLAB code contains functions for both FBPs and ARTs (the built-in lsqr solver is recommended):
+ tomo_projection_2d, computes projections of a given image; build_weight_matrix, builds weighting factor matrix used for algebraic methods; tomo_reconstruction_bp, reconstructs the image from its projections using BP method; tomo_reconstruction_fbp, reconstructs the image from its projections using FBP method; tomo_reconstruction_art, reconstructs the image from its projections using ART method; tomo_reconstruction_sart, reconstructs the image from its projections using SART method; tomo_reconstruction_lsqr, reconstructs the image from its projections, using the build-in lsqr solver.</description>
+    </item>
+    
+    <item>
+      <title>On an integral form for calculating induced electric field</title>
+      <link>https://SoldierDown.github.io/project/electric-field/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/electric-field/</guid>
+      <description>In this paper, the integral expression for calculating the induced electric field is given by analogy to the Biot-Savart Law. The expression is proved by Helmholtz theorem and Maxwell equations. Based on the method, the paper discussed the distribution of the induced electric field generated by magnetic field in square, triangle and arbitrary polygon area.
+[View our technical report (in Chinese)] Checkout our MATLAB code</description>
+    </item>
+    
+  </channel>
+</rss>

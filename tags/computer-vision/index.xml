@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer-vision on Haozhe Su</title>
+    <link>https://SoldierDown.github.io/tags/computer-vision/</link>
+    <description>Recent content in computer-vision on Haozhe Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://SoldierDown.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Facial Attribute Modeling with Weakly Supervised GANs</title>
+      <link>https://SoldierDown.github.io/project/ws-gan/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/ws-gan/</guid>
+      <description>This is the project for &amp;ldquo;Learning Facial Attribute Modeling with Weakly Supervised GANs&amp;rdquo;. Please see more in Publication section.</description>
+    </item>
+    
+    <item>
+      <title>Code for Weakly-Supervised GANs (WS-GAN)</title>
+      <link>https://SoldierDown.github.io/post/ws-gan/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/ws-gan/</guid>
+      <description>Checkout the code on Github
+PyTorch code for &amp;ldquo;Learning Facial Attribute Modeling with Weakly Supervised GANs&amp;rdquo;. The code is largely based on CycleGAN and pix2pix.</description>
+    </item>
+    
+    <item>
+      <title>Code for Supervised GANs (SGAN)</title>
+      <link>https://SoldierDown.github.io/post/supervised-gan/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/supervised-gan/</guid>
+      <description>Checkout the code on Github
+PyTorch code for &amp;ldquo;Learning Generative Models of Tissue Organization with Supervised GANs&amp;rdquo;. The code is largely based on CycleGAN and pix2pix.</description>
+    </item>
+    
+    <item>
+      <title>Learning Generative Models of Tissue Organization with Supervised GANs</title>
+      <link>https://SoldierDown.github.io/project/supervised-gan/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/supervised-gan/</guid>
+      <description>This is the project for &amp;ldquo;Learning Generative Models of Tissue Organization with Supervised GANs&amp;rdquo;. Please see more in Publication section.</description>
+    </item>
+    
+    <item>
+      <title>MatConvNet modules for 2-D RNNs (LSTM, GRU)</title>
+      <link>https://SoldierDown.github.io/post/lstm2d/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/lstm2d/</guid>
+      <description>Checkout the code on Github
+Implementation of various 2-D RNN modules is included:
+ 2-D RNN 2-D LSTM  Vanilla With &amp;ldquo;peephole connections&amp;ldquo; With coupled forget and input gates  2-D GRU  </description>
+    </item>
+    
+    <item>
+      <title>MatConvNet modules for 2-D RNNs (LSTM, GRU)</title>
+      <link>https://SoldierDown.github.io/project/lstm2d/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/lstm2d/</guid>
+      <description>Checkout our code</description>
+    </item>
+    
+    <item>
+      <title>Sparse Representation of Symmetric Positive Definite Matrices with Application in Texture Classification</title>
+      <link>https://SoldierDown.github.io/project/cvx-proj/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/cvx-proj/</guid>
+      <description>Encoding image information as Symmetric Positive Definite (SPD) matrices has become a popular method in computer vision and image analysis. However, it has been two challenges to analyze and process data of this type since (1) SPD matrices lie in a convex cone; (2) SPD matrices do not obey Euclidean geometry, but rather lie on the manifold with a Riemannian metric. This paper tackles the problem of sparse coding and dictionary learning in the space of SPD matrices.</description>
+    </item>
+    
+    <item>
+      <title>Deep contextual recurrent residual networks (CRNN) for scene labeling</title>
+      <link>https://SoldierDown.github.io/project/dcrnn/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/dcrnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Automated Blood Cell Detection and Segmentation System</title>
+      <link>https://SoldierDown.github.io/project/automatic-cell/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/automatic-cell/</guid>
+      <description>This is the project for &amp;ldquo;An Automated Blood Cell Detection and Segmentation System&amp;rdquo;. Please see more in Publication section.</description>
+    </item>
+    
+    <item>
+      <title>Multiple-Instance Learning in Scene Classification</title>
+      <link>https://SoldierDown.github.io/project/ml-proj/</link>
+      <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/ml-proj/</guid>
+      <description>In this project, we aim to implement and compare different machine learning algorithms adopted to the multiple-instance learning (MIL) setting in image scene classification tasks. We also present a novel hierarchical learning framework for feature extraction. We first utilized the bag-of-words model to present each image as a bag of its visual words. Then we built and test several classifiers on the histogram of the word maps as baseline methods, including Gaussian Naive Bayes classifier, k-nearest neighbors (k-NN) classifier, and artificial neural network (ANN).</description>
+    </item>
+    
+    <item>
+      <title>Analysis of intermediate layers in Regional-based Convolution Neural Networks by Classifier Probes</title>
+      <link>https://SoldierDown.github.io/project/classifier-probe/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/classifier-probe/</guid>
+      <description>Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.</description>
+    </item>
+    
+  </channel>
+</rss>
