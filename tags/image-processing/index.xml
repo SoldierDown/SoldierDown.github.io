@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image-processing on Haozhe Su</title>
+    <link>https://SoldierDown.github.io/tags/image-processing/</link>
+    <description>Recent content in image-processing on Haozhe Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
+    <lastBuildDate>Fri, 22 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://SoldierDown.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Automated Blood Cell Detection and Segmentation System</title>
+      <link>https://SoldierDown.github.io/project/automatic-cell/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/automatic-cell/</guid>
+      <description>This is the project for &amp;ldquo;An Automated Blood Cell Detection and Segmentation System&amp;rdquo;. Please see more in Publication section.</description>
+    </item>
+    
+    <item>
+      <title>Tools for 2-D Tomographic Reconstruction</title>
+      <link>https://SoldierDown.github.io/post/tomo/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/tomo/</guid>
+      <description>Checkout the code on File Exchange or Github
+There are two main methods for tomographic reconstruction: 1. Filtered back-projection or FBP which is based on Radon transform and its inverse transform; 2. Algebraic reconstruction technique or ART which is based on solving linear algebra equations.
+The MATLAB code contains functions for both FBPs and ARTs (the built-in lsqr solver is recommended):
+ tomo_projection_2d, computes projections of a given image; build_weight_matrix, builds weighting factor matrix used for algebraic methods; tomo_reconstruction_bp, reconstructs the image from its projections using BP method; tomo_reconstruction_fbp, reconstructs the image from its projections using FBP method; tomo_reconstruction_art, reconstructs the image from its projections using ART method; tomo_reconstruction_sart, reconstructs the image from its projections using SART method; tomo_reconstruction_lsqr, reconstructs the image from its projections, using the build-in lsqr solver.</description>
+    </item>
+    
+  </channel>
+</rss>

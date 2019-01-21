@@ -1,15 +1,151 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <title>Tags on Haozhe Su</title>
+    <link>https://SoldierDown.github.io/tags/</link>
+    <description>Recent content in Tags on Haozhe Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://SoldierDown.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://SoldierDown.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>GAN</title>
+      <link>https://SoldierDown.github.io/tags/gan/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://SoldierDown.github.io/tags/python/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://SoldierDown.github.io/tags/code/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-vision</title>
+      <link>https://SoldierDown.github.io/tags/computer-vision/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>course-project</title>
+      <link>https://SoldierDown.github.io/tags/course-project/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/course-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://SoldierDown.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image-processing</title>
+      <link>https://SoldierDown.github.io/tags/image-processing/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://SoldierDown.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>https://SoldierDown.github.io/tags/matlab/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>https://SoldierDown.github.io/tags/misc/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>other</title>
+      <link>https://SoldierDown.github.io/tags/other/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pattern-recognition</title>
+      <link>https://SoldierDown.github.io/tags/pattern-recognition/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/pattern-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physics</title>
+      <link>https://SoldierDown.github.io/tags/physics/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>undergrad-project</title>
+      <link>https://SoldierDown.github.io/tags/undergrad-project/</link>
+      <pubDate>Sun, 15 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/tags/undergrad-project/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
