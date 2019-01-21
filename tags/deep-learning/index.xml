@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Haozhe Su</copyright>
-    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://SoldierDown.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Learning Facial Attribute Modeling with Weakly Supervised GANs</title>
-      <link>https://SoldierDown.github.io/project/ws-gan/</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/ws-gan/</guid>
-      <description>This is the project for &amp;ldquo;Learning Facial Attribute Modeling with Weakly Supervised GANs&amp;rdquo;. Please see more in Publication section.</description>
-    </item>
     
     <item>
       <title>Code for Weakly-Supervised GANs (WS-GAN)</title>
@@ -42,15 +33,6 @@ PyTorch code for &amp;ldquo;Learning Generative Models of Tissue Organization wi
     </item>
     
     <item>
-      <title>Learning Generative Models of Tissue Organization with Supervised GANs</title>
-      <link>https://SoldierDown.github.io/project/supervised-gan/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/supervised-gan/</guid>
-      <description>This is the project for &amp;ldquo;Learning Generative Models of Tissue Organization with Supervised GANs&amp;rdquo;. Please see more in Publication section.</description>
-    </item>
-    
-    <item>
       <title>MatConvNet modules for 2-D RNNs (LSTM, GRU)</title>
       <link>https://SoldierDown.github.io/post/lstm2d/</link>
       <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
@@ -59,33 +41,6 @@ PyTorch code for &amp;ldquo;Learning Generative Models of Tissue Organization wi
       <description>Checkout the code on Github
 Implementation of various 2-D RNN modules is included:
  2-D RNN 2-D LSTM  Vanilla With &amp;ldquo;peephole connections&amp;ldquo; With coupled forget and input gates  2-D GRU  </description>
-    </item>
-    
-    <item>
-      <title>MatConvNet modules for 2-D RNNs (LSTM, GRU)</title>
-      <link>https://SoldierDown.github.io/project/lstm2d/</link>
-      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/lstm2d/</guid>
-      <description>Checkout our code</description>
-    </item>
-    
-    <item>
-      <title>Deep contextual recurrent residual networks (CRNN) for scene labeling</title>
-      <link>https://SoldierDown.github.io/project/dcrnn/</link>
-      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/dcrnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis of intermediate layers in Regional-based Convolution Neural Networks by Classifier Probes</title>
-      <link>https://SoldierDown.github.io/project/classifier-probe/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/classifier-probe/</guid>
-      <description>Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.</description>
     </item>
     
   </channel>

@@ -5,15 +5,6 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/project/ws-gan/</loc>
-      <lastmod>2018-12-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://SoldierDown.github.io/post/ws-gan/</loc>
       <lastmod>2018-12-01T00:00:00-05:00</lastmod>
     </url>
@@ -68,15 +59,6 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/project/supervised-gan/</loc>
-      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://SoldierDown.github.io/publication/automatic-cell/</loc>
       <lastmod>2017-03-13T00:00:00+00:00</lastmod>
     </url>
@@ -88,15 +70,6 @@
     
       <loc>https://SoldierDown.github.io/post/lstm2d/</loc>
       <lastmod>2017-12-16T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://SoldierDown.github.io/project/lstm2d/</loc>
-      <lastmod>2017-02-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -131,24 +104,6 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/project/cvx-proj/</loc>
-      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://SoldierDown.github.io/project/dcrnn/</loc>
-      <lastmod>2016-11-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://SoldierDown.github.io/publication/hierarchical/</loc>
       <lastmod>2016-10-21T00:00:00+00:00</lastmod>
     </url>
@@ -158,8 +113,8 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/project/automatic-cell/</loc>
-      <lastmod>2016-07-22T00:00:00+00:00</lastmod>
+      <loc>https://SoldierDown.github.io/project/2d_fluid/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -167,8 +122,8 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/project/ml-proj/</loc>
-      <lastmod>2016-05-04T00:00:00+00:00</lastmod>
+      <loc>https://SoldierDown.github.io/project/educational/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -176,7 +131,43 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/project/classifier-probe/</loc>
+      <loc>https://SoldierDown.github.io/project/3danse_cp/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://SoldierDown.github.io/project/cg_iw_cp/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://SoldierDown.github.io/project/rbs/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://SoldierDown.github.io/project/pnd/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://SoldierDown.github.io/project/sdf/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -203,26 +194,8 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/project/ultrasonic-sensor/</loc>
-      <lastmod>2013-12-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://SoldierDown.github.io/post/tomo/</loc>
       <lastmod>2017-12-16T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://SoldierDown.github.io/project/electric-field/</loc>
-      <lastmod>2012-11-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -259,16 +232,6 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/tags/gan/</loc>
-      <lastmod>2018-12-09T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://SoldierDown.github.io/</loc>
       <lastmod>2018-10-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -280,7 +243,7 @@
     <url>
     
       <loc>https://SoldierDown.github.io/project/</loc>
-      <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -319,6 +282,26 @@
     
     <url>
     
+      <loc>https://SoldierDown.github.io/tags/blender/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://SoldierDown.github.io/tags/cg-modeling/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://SoldierDown.github.io/tags/code/</loc>
       <lastmod>2018-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -329,8 +312,8 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/tags/computer-vision/</loc>
-      <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+      <loc>https://SoldierDown.github.io/tags/computer-graphics/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -339,8 +322,8 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/tags/course-project/</loc>
-      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+      <loc>https://SoldierDown.github.io/tags/computer-vision/</loc>
+      <lastmod>2018-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -350,7 +333,27 @@
     <url>
     
       <loc>https://SoldierDown.github.io/tags/deep-learning/</loc>
-      <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+      <lastmod>2018-12-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://SoldierDown.github.io/tags/digital-art/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://SoldierDown.github.io/tags/geometry/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -360,7 +363,7 @@
     <url>
     
       <loc>https://SoldierDown.github.io/tags/image-processing/</loc>
-      <lastmod>2016-07-22T00:00:00+00:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -370,7 +373,7 @@
     <url>
     
       <loc>https://SoldierDown.github.io/tags/machine-learning/</loc>
-      <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+      <lastmod>2018-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -409,8 +412,8 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/tags/pattern-recognition/</loc>
-      <lastmod>2016-07-22T00:00:00+00:00</lastmod>
+      <loc>https://SoldierDown.github.io/tags/physics/</loc>
+      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -419,8 +422,18 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/tags/physics/</loc>
-      <lastmod>2012-11-15T00:00:00+00:00</lastmod>
+      <loc>https://SoldierDown.github.io/tags/physics-based-simulation/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://SoldierDown.github.io/tags/sketchbook/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -430,7 +443,7 @@
     <url>
     
       <loc>https://SoldierDown.github.io/tags/undergrad-project/</loc>
-      <lastmod>2013-12-15T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-16T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

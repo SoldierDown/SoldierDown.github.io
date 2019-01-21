@@ -18,26 +18,8 @@
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://SoldierDown.github.io/project/physics_urp/</guid>
-      <description>$\alpha$This is the project for &amp;ldquo;Learning Generative Models of Tissue Organization with Supervised GANs&amp;rdquo;. Please see more in Publication section.
+      <description>This is the project for &amp;ldquo;Learning Generative Models of Tissue Organization with Supervised GANs&amp;rdquo;. Please see more in Publication section.
 [View my presentation] </description>
-    </item>
-    
-    <item>
-      <title>Sparse Representation of Symmetric Positive Definite Matrices with Application in Texture Classification</title>
-      <link>https://SoldierDown.github.io/project/cvx-proj/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/cvx-proj/</guid>
-      <description>Encoding image information as Symmetric Positive Definite (SPD) matrices has become a popular method in computer vision and image analysis. However, it has been two challenges to analyze and process data of this type since (1) SPD matrices lie in a convex cone; (2) SPD matrices do not obey Euclidean geometry, but rather lie on the manifold with a Riemannian metric. This paper tackles the problem of sparse coding and dictionary learning in the space of SPD matrices.</description>
-    </item>
-    
-    <item>
-      <title>Multiple-Instance Learning in Scene Classification</title>
-      <link>https://SoldierDown.github.io/project/ml-proj/</link>
-      <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/ml-proj/</guid>
-      <description>In this project, we aim to implement and compare different machine learning algorithms adopted to the multiple-instance learning (MIL) setting in image scene classification tasks. We also present a novel hierarchical learning framework for feature extraction. We first utilized the bag-of-words model to present each image as a bag of its visual words. Then we built and test several classifiers on the histogram of the word maps as baseline methods, including Gaussian Naive Bayes classifier, k-nearest neighbors (k-NN) classifier, and artificial neural network (ANN).</description>
     </item>
     
   </channel>
