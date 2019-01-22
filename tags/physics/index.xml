@@ -18,9 +18,7 @@
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://SoldierDown.github.io/project/physics_urp/</guid>
-      <description>In Highe Energy Physics(HEP), mu(1405) and mu(1475) both can decay into K+K_bar+pi as suggested by the Mark III analysis. However, BESII analysis suggests that if an energy-dependent width is applied, it is not neccessary to have two states in J/Psi-&amp;gt;K+K_bar+pi.
-The motivation of this project is to study n(1405) and mu(1475) using high-statistics J/Psi samples at BESIII, which is composed the following steps:
- Implement event selection, background estimations and signal fitting.</description>
+      <description></description>
     </item>
     
     <item>
