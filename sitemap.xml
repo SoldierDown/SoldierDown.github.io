@@ -41,15 +41,6 @@
     
     <url>
     
-      <loc>https://SoldierDown.github.io/project/physics_urp/</loc>
-      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://SoldierDown.github.io/post/supervised-gan/</loc>
       <lastmod>2017-12-16T00:00:00-05:00</lastmod>
     </url>
@@ -97,6 +88,15 @@
     
       <loc>https://SoldierDown.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://SoldierDown.github.io/project/physics_urp/</loc>
+      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -243,7 +243,7 @@
     <url>
     
       <loc>https://SoldierDown.github.io/project/</loc>
-      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -403,7 +403,7 @@
     <url>
     
       <loc>https://SoldierDown.github.io/tags/other/</loc>
-      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -413,7 +413,7 @@
     <url>
     
       <loc>https://SoldierDown.github.io/tags/physics/</loc>
-      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

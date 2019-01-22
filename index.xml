@@ -50,15 +50,6 @@
     </item>
     
     <item>
-      <title>Study of J/Psi-&gt;gamma&#43;Ks&#43;Ks&#43;pi</title>
-      <link>https://SoldierDown.github.io/project/physics_urp/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/physics_urp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Code for Supervised GANs (SGAN)</title>
       <link>https://SoldierDown.github.io/post/supervised-gan/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
@@ -101,6 +92,15 @@
 &lt;li&gt;2-D &lt;a href=&#34;http://arxiv.org/pdf/1406.1078v3.pdf&#34; target=&#34;_blank&#34;&gt;GRU&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Study of J/Psi-&gt;gamma&#43;Ks&#43;Ks&#43;pi</title>
+      <link>https://SoldierDown.github.io/project/physics_urp/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/physics_urp/</guid>
+      <description></description>
     </item>
     
     <item>
