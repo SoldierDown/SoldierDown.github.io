@@ -129,16 +129,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://SoldierDown.github.io/project/2d_fluid/</guid>
-      <description>&lt;p&gt;Smoke simulation is one of the most important parts in physics-based simulation. In this project, our goal is to visualize 2D smoke based on 2D Navier-Stokes equation. It is composed of the following steps:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;First of all, we apply numerical methods and solve Navier-Stokes equation by splitting the original equation into three major parts: advection, diffusion and projection. Through advection, the properties of smoke move along with the velocity field. Through diffusion, density tends to be uniform in the domain. And the final part, projection is to make the velocity field divergence-free, which means the smoke is incompressible.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Secondly, we design a GUI using QT. This GUI helps us interact with the smoke. We can add source to the domain simply using mouse, pause/restart the simulation and run the simulation frame by frame.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;a href=&#34;https://SoldierDown.github.io/pdf/Term_Project.pdf&#34;&gt;[&lt;strong&gt;View our technical report&lt;/strong&gt;]&lt;/a&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
