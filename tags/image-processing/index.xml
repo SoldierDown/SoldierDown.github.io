@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image-processing on Haozhe Su</title>
+    <link>https://SoldierDown.github.io/tags/image-processing/</link>
+    <description>Recent content in image-processing on Haozhe Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://SoldierDown.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Warping</title>
+      <link>https://SoldierDown.github.io/project/cg_iw_cp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/cg_iw_cp/</guid>
+      <description>Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Tools for 2-D Tomographic Reconstruction</title>
+      <link>https://SoldierDown.github.io/post/tomo/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/tomo/</guid>
+      <description>Checkout the code on File Exchange or Github
+There are two main methods for tomographic reconstruction: 1. Filtered back-projection or FBP which is based on Radon transform and its inverse transform; 2. Algebraic reconstruction technique or ART which is based on solving linear algebra equations.
+The MATLAB code contains functions for both FBPs and ARTs (the built-in lsqr solver is recommended):
+ tomo_projection_2d, computes projections of a given image; build_weight_matrix, builds weighting factor matrix used for algebraic methods; tomo_reconstruction_bp, reconstructs the image from its projections using BP method; tomo_reconstruction_fbp, reconstructs the image from its projections using FBP method; tomo_reconstruction_art, reconstructs the image from its projections using ART method; tomo_reconstruction_sart, reconstructs the image from its projections using SART method; tomo_reconstruction_lsqr, reconstructs the image from its projections, using the build-in lsqr solver.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer-graphics on Haozhe Su</title>
+    <link>https://SoldierDown.github.io/tags/computer-graphics/</link>
+    <description>Recent content in computer-graphics on Haozhe Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://SoldierDown.github.io/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Warping</title>
+      <link>https://SoldierDown.github.io/project/cg_iw_cp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/cg_iw_cp/</guid>
+      <description>Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.</description>
+    </item>
+    
+  </channel>
+</rss>

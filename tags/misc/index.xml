@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misc on Haozhe Su</title>
+    <link>https://SoldierDown.github.io/tags/misc/</link>
+    <description>Recent content in misc on Haozhe Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
+    <lastBuildDate>Mon, 21 Dec 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://SoldierDown.github.io/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gomoku</title>
+      <link>https://SoldierDown.github.io/post/python-gomoku/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/python-gomoku/</guid>
+      <description>Checkout the code on Github
+ GUI and CLI interface A simple implementation of AI player Play remotely through socket interface   How to use Simply run:
+$ python gomoku.py  or a CLI version (pretty much forked from Skywind):
+$ python gomoku_cli.py  and enjoy!
+Game control and settings Change player types in gomoku.py:
+PLTYP1 = &#39;human&#39; PLTYP2 = &#39;computer&#39;  Music and sound effect:
+play_music = True play_sound = True  Acknowledgement AI code adopted from here by Skywind.</description>
+    </item>
+    
+    <item>
+      <title>Tools for Axis Label Alignment in MATLAB</title>
+      <link>https://SoldierDown.github.io/post/matlab-axis-align/</link>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://SoldierDown.github.io/post/matlab-axis-align/</guid>
+      <description>Checkout the code on File Exchange or Github
+This is a simple MATLAB function for axis label alignment. If you have ever struggled with the label alignment issue in MATLAB&amp;rsquo;s 3-D plots &amp;mdash; by default axis labels are placed horizontally no matter how you rotate the plot &amp;mdash; here is a simple fix.
+It still works when Projection mode is Perspective or when DataAspectRatio is not [1 1 1].</description>
+    </item>
+    
+  </channel>
+</rss>
