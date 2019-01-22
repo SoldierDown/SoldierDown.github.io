@@ -63,7 +63,7 @@
   
   <meta property="og:site_name" content="Haozhe Su">
   <meta property="og:url" content="https://SoldierDown.github.io/project/2d_fluid/">
-  <meta property="og:title" content="2D Interactive Fluid Simulation | Haozhe Su">
+  <meta property="og:title" content="2D Interactive Smoke Simulation | Haozhe Su">
   <meta property="og:description" content="">
   <meta property="og:locale" content="en-us">
   
@@ -74,7 +74,7 @@
 
   
 
-  <title>2D Interactive Fluid Simulation | Haozhe Su</title>
+  <title>2D Interactive Smoke Simulation | Haozhe Su</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -189,7 +189,7 @@
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">2D Interactive Fluid Simulation</h1>
+      <h1 itemprop="name">2D Interactive Smoke Simulation</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="pull-right">
         
@@ -197,7 +197,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=2D%20Interactive%20Fluid%20Simulation&amp;url=https%3a%2f%2fSoldierDown.github.io%2fproject%2f2d_fluid%2f"
+         href="https://twitter.com/intent/tweet?text=2D%20Interactive%20Smoke%20Simulation&amp;url=https%3a%2f%2fSoldierDown.github.io%2fproject%2f2d_fluid%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
@@ -211,21 +211,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fSoldierDown.github.io%2fproject%2f2d_fluid%2f&amp;title=2D%20Interactive%20Fluid%20Simulation"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fSoldierDown.github.io%2fproject%2f2d_fluid%2f&amp;title=2D%20Interactive%20Smoke%20Simulation"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fSoldierDown.github.io%2fproject%2f2d_fluid%2f&amp;title=2D%20Interactive%20Fluid%20Simulation"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fSoldierDown.github.io%2fproject%2f2d_fluid%2f&amp;title=2D%20Interactive%20Smoke%20Simulation"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=2D%20Interactive%20Fluid%20Simulation&amp;body=https%3a%2f%2fSoldierDown.github.io%2fproject%2f2d_fluid%2f">
+         href="mailto:?subject=2D%20Interactive%20Smoke%20Simulation&amp;body=https%3a%2f%2fSoldierDown.github.io%2fproject%2f2d_fluid%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -239,13 +239,12 @@
     
 
     <div class="article-style" itemprop="articleBody">
-      <p>Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.</p>
-
-<p>Our project aims to propose and evaluate different visualization strategies for face detection models, which is composed of two steps:</p>
+      <p>Smoke simulation is one of the most important parts in physics-based simulation. In this project, our goal is to visualize 2D smoke based on 2D Navier-Stokes equation. It is composed of the following steps:</p>
 
 <ul>
-<li>In the first step, we train a face detection model. We first transform the state-of-art Faster-RCNN on object detection to the face detection problem. The modified RCNN model is then tested on challenging face images, including the Wider Face dataset and the pre-trained model for CNN is the VGG-16. For implementation we use Caffe as the CNN framework.</li>
-<li>In the second step we evaluate and visualize our model using the proposed classifier probes, which is based on computing the conditional entropy. Basically, the (average) conditional entropy of class given activation values quantifies the average amount of information of classes needed when activation values are known. Ideally, from bottom to top (from bottom image layer to top convolutional layer), we would expect the average conditional entropy goes down.</li>
+<li><p>First of all, we apply numerical methods and solve Navier-Stokes equation by splitting the original equation into three major parts: advection, diffusion and projection. Through advection, the properties of smoke move along with the velocity field. Through diffusion, density tends to be uniform in the domain. And the final part, projection is to make the velocity field divergence-free, which means the smoke is incompressible.</p></li>
+
+<li><p>Secondly, we design a GUI using QT. This GUI helps us interact with the smoke. We can add source to the domain simply using mouse, pause/restart the simulation and run the simulation frame by frame.</p></li>
 </ul>
 
 <a href="https://SoldierDown.github.io/pdf/Term_Project.pdf">[<strong>View our technical report</strong>]</a>
@@ -294,7 +293,7 @@
     
 
     
-    <li class="next"><a href="https://SoldierDown.github.io/project/physics_urp/">Study of  <span
+    <li class="next"><a href="https://SoldierDown.github.io/project/physics_urp/">Study of J/Psi-&gt;gamma&#43;Ks&#43;Ks&#43;pi <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>

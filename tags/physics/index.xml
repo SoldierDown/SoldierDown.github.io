@@ -13,21 +13,24 @@
     
     
     <item>
-      <title>Study of </title>
+      <title>Study of J/Psi-&gt;gamma&#43;Ks&#43;Ks&#43;pi</title>
       <link>https://SoldierDown.github.io/project/physics_urp/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://SoldierDown.github.io/project/physics_urp/</guid>
-      <description>This is the project for &amp;ldquo;Learning Generative Models of Tissue Organization with Supervised GANs&amp;rdquo;. Please see more in Publication section. $\gamma$ [View my presentation]</description>
+      <description>In Highe Energy Physics(HEP), mu(1405) and mu(1475) both can decay into K+K_bar+pi as suggested by the Mark III analysis. However, BESII analysis suggests that if an energy-dependent width is applied, it is not neccessary to have two states in J/Psi-&amp;gt;K+K_bar+pi.
+The motivation of this project is to study n(1405) and mu(1475) using high-statistics J/Psi samples at BESIII, which is composed the following steps:
+ Implement event selection, background estimations and signal fitting.</description>
     </item>
     
     <item>
-      <title>2D Interactive Fluid Simulation</title>
+      <title>2D Interactive Smoke Simulation</title>
       <link>https://SoldierDown.github.io/project/2d_fluid/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://SoldierDown.github.io/project/2d_fluid/</guid>
-      <description>Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.</description>
+      <description>Smoke simulation is one of the most important parts in physics-based simulation. In this project, our goal is to visualize 2D smoke based on 2D Navier-Stokes equation. It is composed of the following steps:
+ First of all, we apply numerical methods and solve Navier-Stokes equation by splitting the original equation into three major parts: advection, diffusion and projection. Through advection, the properties of smoke move along with the velocity field.</description>
     </item>
     
     <item>
