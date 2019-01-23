@@ -11,104 +11,11 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Code for Weakly-Supervised GANs (WS-GAN)</title>
-      <link>https://SoldierDown.github.io/post/ws-gan/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://SoldierDown.github.io/post/ws-gan/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Checkout the code&lt;/strong&gt; on &lt;a href=&#34;https://github.com/phymhan/ws-gan&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;PyTorch code for &amp;ldquo;Learning Facial Attribute Modeling with Weakly Supervised GANs&amp;rdquo;. The code is largely based on &lt;a href=&#34;https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix&#34; target=&#34;_blank&#34;&gt;CycleGAN and pix2pix&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning Facial Attribute Modeling with Weakly Supervised GANs</title>
-      <link>https://SoldierDown.github.io/publication/ws-gan/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/publication/ws-gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Generative Models of Tissue Organization with Supervised GANs</title>
-      <link>https://SoldierDown.github.io/publication/supervised-gan/</link>
-      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/publication/supervised-gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Contextual Recurrent Residual Networks for Scene Labeling</title>
-      <link>https://SoldierDown.github.io/publication/deep_contextual_rnn/</link>
-      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/publication/deep_contextual_rnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code for Supervised GANs (SGAN)</title>
-      <link>https://SoldierDown.github.io/post/supervised-gan/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://SoldierDown.github.io/post/supervised-gan/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Checkout the code&lt;/strong&gt; on &lt;a href=&#34;https://github.com/phymhan/supervised-gan&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;PyTorch code for &amp;ldquo;Learning Generative Models of Tissue Organization with Supervised GANs&amp;rdquo;. The code is largely based on &lt;a href=&#34;https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix&#34; target=&#34;_blank&#34;&gt;CycleGAN and pix2pix&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An Automated Blood Cell Detection and Segmentation System</title>
-      <link>https://SoldierDown.github.io/publication/automatic-cell/</link>
-      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/publication/automatic-cell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MatConvNet modules for 2-D RNNs (LSTM, GRU)</title>
-      <link>https://SoldierDown.github.io/post/lstm2d/</link>
-      <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://SoldierDown.github.io/post/lstm2d/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Checkout the code&lt;/strong&gt; on &lt;a href=&#34;https://github.com/phymhan/matconvnet&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Implementation of various &lt;a href=&#34;https://arxiv.org/abs/1509.00552&#34; target=&#34;_blank&#34;&gt;2-D RNN&lt;/a&gt; modules is included:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2-D RNN&lt;/li&gt;
-&lt;li&gt;2-D &lt;a href=&#34;http://colah.github.io/posts/2015-08-Understanding-LSTMs/&#34; target=&#34;_blank&#34;&gt;LSTM&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vanilla&lt;/li&gt;
-&lt;li&gt;With &amp;ldquo;&lt;a href=&#34;ftp://ftp.idsia.ch/pub/juergen/TimeCount-IJCNN2000.pdf&#34; target=&#34;_blank&#34;&gt;peephole connections&lt;/a&gt;&amp;ldquo;&lt;/li&gt;
-&lt;li&gt;With &lt;em&gt;coupled&lt;/em&gt; forget and input gates&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;2-D &lt;a href=&#34;http://arxiv.org/pdf/1406.1078v3.pdf&#34; target=&#34;_blank&#34;&gt;GRU&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Study of J/Psi-&gt;gamma&#43;Ks&#43;Ks&#43;pi</title>
       <link>https://SoldierDown.github.io/project/physics_urp/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://SoldierDown.github.io/project/physics_urp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical Feature Extraction for Nuclear Morphometry-Based Cancer Diagnosis</title>
-      <link>https://SoldierDown.github.io/publication/hierarchical/</link>
-      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/publication/hierarchical/</guid>
       <description></description>
     </item>
     
