@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Haozhe Su</title>
+    <link>https://SoldierDown.github.io/project/</link>
+    <description>Recent content in Projects on Haozhe Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
+    <lastBuildDate>Thu, 15 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://SoldierDown.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Study of J/Psi-&gt;gamma&#43;Ks&#43;Ks&#43;pi</title>
+      <link>https://SoldierDown.github.io/project/physics_urp/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/physics_urp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2D Interactive Smoke Simulation</title>
+      <link>https://SoldierDown.github.io/project/2d_fluid/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/2d_fluid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Animation for Educational Purpose</title>
+      <link>https://SoldierDown.github.io/project/educational/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/educational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Modeling: Bear-Claw Knife, Elevator and Other Stuffs</title>
+      <link>https://SoldierDown.github.io/project/3danse_cp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/3danse_cp/</guid>
+      <description>Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Rigid Body Simulation</title>
+      <link>https://SoldierDown.github.io/project/rbs/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/rbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is Us</title>
+      <link>https://SoldierDown.github.io/project/this_is_us/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/this_is_us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization of Signed Distance Function</title>
+      <link>https://SoldierDown.github.io/project/sdf/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/sdf/</guid>
+      <description>Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.</description>
+    </item>
+    
+  </channel>
+</rss>
