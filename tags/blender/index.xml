@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blender on Haozhe Su</title>
+    <link>https://SoldierDown.github.io/tags/blender/</link>
+    <description>Recent content in blender on Haozhe Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://SoldierDown.github.io/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Animation for Educational Purpose</title>
+      <link>https://SoldierDown.github.io/project/educational/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://SoldierDown.github.io/project/educational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
