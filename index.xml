@@ -1,113 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative portfolio</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Creative portfolio</description>
+    <title>Haozhe Su</title>
+    <link>https://SoldierDown.github.io/</link>
+    <description>Recent content on Haozhe Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://SoldierDown.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Name of the work 2</title>
-      <link>https://example.org/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 3</title>
-      <link>https://example.org/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item without image</title>
-      <link>https://example.org/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 5</title>
-      <link>https://example.org/portfolio/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 6</title>
-      <link>https://example.org/portfolio/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work6/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 7</title>
-      <link>https://example.org/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 8</title>
-      <link>https://example.org/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://example.org/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://example.org/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://example.org/portfolio/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://example.org/portfolio/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 1</title>
-      <link>https://example.org/portfolio/work1/</link>
+      <title>Non-Fourier Diffusion</title>
+      <link>https://SoldierDown.github.io/projects/non_fourier_diffusion/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+      <guid>https://SoldierDown.github.io/projects/non_fourier_diffusion/</guid>
+      <description>Abstract We introduce a generalized constitutive model for diffusion-driven problems with several attractive properties:
+ It fundamentally explains diffusion from the perspective of the Boltzmann Transport Equation It can address the issue of infinite propagation speed for diffusion, an assumption made by the widely employed Fick’s/Fourier’s law. It can capture some of the most characteristic, yet unprecedented, visual aspects of diffusion-driven physics.  In the algorithm, we propose a novel semi-implicit discretization for this diffusion model on staggered MACgrids and design a geometric Multigrid-preconditioned Conjugate Gradients solver for efficient numerical solution.</description>
+    </item>
+    
+    <item>
+      <title>Non-Newtonian Flow</title>
+      <link>https://SoldierDown.github.io/projects/non_newtonian_flow/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://SoldierDown.github.io/projects/non_newtonian_flow/</guid>
+      <description>TO BE CONTINUED
+Examples </description>
+    </item>
+    
+    <item>
+      <title>This Is Us</title>
+      <link>https://SoldierDown.github.io/projects/this_is_us/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://SoldierDown.github.io/projects/this_is_us/</guid>
+      <description>This is my personal project which records beautiful moments with family and friends.
+  Me and my college friends on a winder break trip to Boston Date: Dec. 31, 2018      My parents seeing me off @ Xiamen Gaoqi International Airport Date: Aug. 20, 2018      Me and my college friends on a graduation vacation to Huangshan Mountain Date: Jun. 18, 2018      Me in academic dress with my grandma and granpa (TBC) Date: Aug.</description>
+    </item>
+    
+    <item>
+      <title>2D Interactive Smoke</title>
+      <link>https://SoldierDown.github.io/projects/smoke/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://SoldierDown.github.io/projects/smoke/</guid>
+      <description>Smoke simulation is one of the most fundamental parts in physics-based simulation. In this project, we visualize 2D smoke based on 2D Navier-Stokes equation. It is composed of the following steps:
+ First of all, we apply numerical methods and solve Navier-Stokes equation by splitting the original equation into three major parts:  Advection: $\frac{Dq}{dt} = 0$
+Through advection, the properties of smoke move along with the velocity field Diffusion: $\frac{\partial\vec{u}}{\partial t} = \nu\nabla^2\vec{u}$</description>
+    </item>
+    
+    <item>
+      <title>Blender Modeling</title>
+      <link>https://SoldierDown.github.io/projects/educational/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://SoldierDown.github.io/projects/educational/</guid>
+      <description>Introduction  The long-term goal for this project is to provide a simple and straightforward view of some basic concepts and structures in mathematics, physics, engineering and even music. We use Blender, an open-source and powerful tool to create scientific models and take advantage of its built-in Cycles renderer to make every scene cool and vivid.
+ Möbius Strip   The Möbius strip or Möbius band, is a surface with only one side (when embedded in three-dimensional Euclidean space) and only one boundary.</description>
+    </item>
+    
+    <item>
+      <title>Maya Modeling</title>
+      <link>https://SoldierDown.github.io/projects/3danse_cp/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://SoldierDown.github.io/projects/3danse_cp/</guid>
+      <description>Introduction  This project is for course 3D Animation and Special Effects.
+ Bear-Claw Knife   Elevator  See below for how it works:
+ Motorola Cell Phone  Perspective view: Top view: Bottom view:  Tornado </description>
+    </item>
+    
+    <item>
+      <title>Rigid Body Simulation</title>
+      <link>https://SoldierDown.github.io/projects/rbs/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://SoldierDown.github.io/projects/rbs/</guid>
+      <description>This project is for CS523 Computer Graphics.
+In this project, basic physical laws are implemented. The rigid solid cube will undergo movements, rotations, as well as collisions. The following steps are included:
+ Implement the unconstraint movements of a given rigid body. Use ODE to update properties like location, velocity, angular momentum, etc. Take collisions into account and disallow inter-penetration. Typical result is shown below:
+  Report
+Demo</description>
     </item>
     
   </channel>
