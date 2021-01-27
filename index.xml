@@ -1,105 +1,89 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haozhe Su on Haozhe Su</title>
-    <link>https://SoldierDown.github.io/</link>
-    <description>Recent content in Haozhe Su on Haozhe Su</description>
+    <title>Haozhe Su</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Haozhe Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Haozhe Su</copyright>
-    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Non-Fourier Diffusion</title>
+      <link>https://example.org/projects/non_fourier_diffusion/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/projects/non_fourier_diffusion/</guid>
+      <description>Abstract We introduce a generalized constitutive model for diffusion-driven problems with several attractive properties:
+ It fundamentally explains diffusion from the perspective of the Boltzmann Transport Equation It can address the issue of infinite propagation speed for diffusion, an assumption made by the widely employed Fick’s/Fourier’s law. It can capture some of the most characteristic, yet unprecedented, visual aspects of diffusion-driven physics.  In the algorithm, we propose a novel semi-implicit discretization for this diffusion model on staggered MACgrids and design a geometric Multigrid-preconditioned Conjugate Gradients solver for efficient numerical solution.</description>
+    </item>
+    
+    <item>
+      <title>Non-Newtonian Flow</title>
+      <link>https://example.org/projects/non_newtonian_flow/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://example.org/projects/non_newtonian_flow/</guid>
+      <description>TO BE CONTINUED
+Examples </description>
+    </item>
+    
+    <item>
+      <title>This Is Us</title>
+      <link>https://example.org/projects/this_is_us/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/projects/this_is_us/</guid>
+      <description>This is my personal project which records beautiful moments with family and friends.
+  Me and my college friends on a winder break trip to Boston Date: Dec. 31, 2018      My parents seeing me off @ Xiamen Gaoqi International Airport Date: Aug. 20, 2018      Me and my college friends on a graduation vacation to Huangshan Mountain Date: Jun. 18, 2018      Me in academic dress with my grandma and granpa (TBC) Date: Aug.</description>
+    </item>
+    
+    <item>
+      <title>2D Interactive Smoke</title>
+      <link>https://example.org/projects/smoke/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/projects/smoke/</guid>
+      <description>Smoke simulation is one of the most fundamental parts in physics-based simulation. In this project, we visualize 2D smoke based on 2D Navier-Stokes equation. It is composed of the following steps:
+ First of all, we apply numerical methods and solve Navier-Stokes equation by splitting the original equation into three major parts:  Advection: $\frac{Dq}{dt} = 0$
+Through advection, the properties of smoke move along with the velocity field Diffusion: $\frac{\partial\vec{u}}{\partial t} = \nu\nabla^2\vec{u}$</description>
+    </item>
+    
+    <item>
+      <title>Blender Modeling</title>
+      <link>https://example.org/projects/educational/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/projects/educational/</guid>
+      <description>Introduction  The long-term goal for this project is to provide a simple and straightforward view of some basic concepts and structures in mathematics, physics, engineering and even music. We use Blender, an open-source and powerful tool to create scientific models and take advantage of its built-in Cycles renderer to make every scene cool and vivid.
+ Möbius Strip   The Möbius strip or Möbius band, is a surface with only one side (when embedded in three-dimensional Euclidean space) and only one boundary.</description>
+    </item>
+    
+    <item>
+      <title>Maya Modeling</title>
+      <link>https://example.org/projects/3danse_cp/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/projects/3danse_cp/</guid>
+      <description>Introduction  This project is for course 3D Animation and Special Effects.
+ Bear-Claw Knife   Elevator  See below for how it works:
+ Motorola Cell Phone  Perspective view: Top view: Bottom view:  Tornado </description>
+    </item>
     
     <item>
       <title>Rigid Body Simulation</title>
-      <link>https://SoldierDown.github.io/project/rbs/</link>
-      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      <link>https://example.org/projects/rbs/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://SoldierDown.github.io/project/rbs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Study of J/Psi-&gt;gamma&#43;Ks&#43;Ks&#43;pi</title>
-      <link>https://SoldierDown.github.io/project/physics_urp/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/physics_urp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2D Interactive Smoke Simulation</title>
-      <link>https://SoldierDown.github.io/project/2d_fluid/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/2d_fluid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D Animation for Educational Purpose</title>
-      <link>https://SoldierDown.github.io/project/educational/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/educational/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D Modeling: Bear-Claw Knife, Elevator and Other Stuffs</title>
-      <link>https://SoldierDown.github.io/project/3danse_cp/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/3danse_cp/</guid>
-      <description>&lt;p&gt;Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.&lt;/p&gt;
-
-&lt;p&gt;Our project aims to propose and evaluate different visualization strategies for face detection models, which is composed of two steps:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In the first step, we train a face detection model. We first transform the state-of-art Faster-RCNN on object detection to the face detection problem. The modified RCNN model is then tested on challenging face images, including the Wider Face dataset and the pre-trained model for CNN is the VGG-16. For implementation we use Caffe as the CNN framework.&lt;/li&gt;
-&lt;li&gt;In the second step we evaluate and visualize our model using the proposed classifier probes, which is based on computing the conditional entropy. Basically, the (average) conditional entropy of class given activation values quantifies the average amount of information of classes needed when activation values are known. Ideally, from bottom to top (from bottom image layer to top convolutional layer), we would expect the average conditional entropy goes down.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;a href=&#34;https://SoldierDown.github.io/pdf/Maya.pdf&#34;&gt;[&lt;strong&gt;View our technical report&lt;/strong&gt;]&lt;/a&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>This is Us</title>
-      <link>https://SoldierDown.github.io/project/this_is_us/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/this_is_us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization of Signed Distance Function</title>
-      <link>https://SoldierDown.github.io/project/sdf/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/sdf/</guid>
-      <description>&lt;p&gt;Convolutional neural networks, or CNNs, has been widely applied to various facial related problems, including facial land-marking, individual face matching, and 3D facial reconstruction. Despite its success in robust face detection in terms of performance, there are still some challenges raised by strong illumination, sizes of faces and artifacts. Particularly, in CNN training, the feature extraction and detection results are greatly affected by the structure of the network. Hence, it is desirable to be able to perform some kind of analysis on convolution neural nets, such as feature map visualization at different stages, which helps design of network structure and tuning of hyper-parameters and thus improves feature extraction as well as classification accuracy.&lt;/p&gt;
-
-&lt;p&gt;Our project aims to propose and evaluate different visualization strategies for face detection models, which is composed of two steps:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In the first step, we train a face detection model. We first transform the state-of-art Faster-RCNN on object detection to the face detection problem. The modified RCNN model is then tested on challenging face images, including the Wider Face dataset and the pre-trained model for CNN is the VGG-16. For implementation we use Caffe as the CNN framework.&lt;/li&gt;
-&lt;li&gt;In the second step we evaluate and visualize our model using the proposed classifier probes, which is based on computing the conditional entropy. Basically, the (average) conditional entropy of class given activation values quantifies the average amount of information of classes needed when activation values are known. Ideally, from bottom to top (from bottom image layer to top convolutional layer), we would expect the average conditional entropy goes down.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;a href=&#34;https://SoldierDown.github.io/pdf/Term_Project.pdf&#34;&gt;[&lt;strong&gt;View our technical report&lt;/strong&gt;]&lt;/a&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Digital Art Using Processing</title>
-      <link>https://SoldierDown.github.io/project/processing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://SoldierDown.github.io/project/processing/</guid>
-      <description></description>
+      <guid>https://example.org/projects/rbs/</guid>
+      <description>This project is for CS523 Computer Graphics.
+In this project, basic physical laws are implemented. The rigid solid cube will undergo movements, rotations, as well as collisions. The following steps are included:
+ Implement the unconstraint movements of a given rigid body. Use ODE to update properties like location, velocity, angular momentum, etc. Take collisions into account and disallow inter-penetration. Typical result is shown below:
+  Report
+Demo</description>
     </item>
     
   </channel>
