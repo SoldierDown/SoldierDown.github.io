@@ -102,7 +102,10 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>Non-Newtonian Flow</h1>
-         <p>TO BE CONTINUED</p>
+         <h4 id="abstract">Abstract</h4>
+<p>We assume that the viscous forces in any liquid are simultaneously local and non-local, and introduce the extended POM-POM model to computer graphics to design a unified constitutive model for viscosity that generalizes prior models, such as Oldroyd-B, the Upper-convected Maxwell (UCM) model, and classical Newtonian viscosity under one umbrella, recovering each of them with different parameter values. Implicit discretization of our model via backward Euler recovers the variational Stokes solver of for Newtonian viscosity. For greater accuracy, however, we introduce the second-order accurate Generalized Single Step Single Solve (GS4) scheme to computer graphics, which recovers all prior second-order accurate time integration schemes to date. Using GS4 and our generalized constitutive model, we present a Material Point Method (MPM) for simulating various viscoelastic liquid behaviors, such as classical liquid rope coiling, buckling, folding, and shear thinning/thickening. In addition, we show how to two-way couple our viscoelastic liquid simulator with the recently introduced non-Fourier heat diffusion solver for simulating problems with phase change, such as melting chocolate and digital fabrication with 3D printing. While the discretization of heat diffusion is slightly different within GS4, we show that it can still be efficiently solved using an assembly-free Multigrid-preconditioned Conjugate Gradients solver.
+We present end-to-end 3D simulations to demonstrate the versatility of our framework.</p>
+<p><a href="/pdf/unified_viscoelastic_mpm.pdf">Paper(PDF)</a></p>
 <h4 id="examples">Examples</h4>
 <p><img src="/img/projects/nnf/hourglass.png" alt="1">
 <img src="/img/projects/nnf/bunny.png" alt="2">

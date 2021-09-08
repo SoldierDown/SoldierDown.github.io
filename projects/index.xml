@@ -27,8 +27,7 @@
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
       <guid>https://SoldierDown.github.io/projects/non_newtonian_flow/</guid>
-      <description>TO BE CONTINUED
-Examples </description>
+      <description>Abstract We assume that the viscous forces in any liquid are simultaneously local and non-local, and introduce the extended POM-POM model to computer graphics to design a unified constitutive model for viscosity that generalizes prior models, such as Oldroyd-B, the Upper-convected Maxwell (UCM) model, and classical Newtonian viscosity under one umbrella, recovering each of them with different parameter values. Implicit discretization of our model via backward Euler recovers the variational Stokes solver of for Newtonian viscosity.</description>
     </item>
     
     <item>
