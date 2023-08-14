@@ -108,6 +108,13 @@ img {
   max-width:100%;
 }
 
+#Library {
+}
+#Library:hover {
+  /* content: url('https://raw.githubusercontent.com/SoldierDown/SoldierDown.github.io/master/HZ_Homepage_files/icon.jpg'); */
+  content: url('./papaya_c.gif');
+}
+
 header {
   width:180px;
   float:left;
