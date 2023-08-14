@@ -111,8 +111,7 @@ img {
 #Library {
 }
 #Library:hover {
-  /* content: url('https://raw.githubusercontent.com/SoldierDown/SoldierDown.github.io/master/HZ_Homepage_files/icon.jpg'); */
-  content: url('./papaya_c.gif');
+  content: url('https://raw.githubusercontent.com/SoldierDown/SoldierDown.github.io/master/HZ_Homepage_files/papaya.gif');
 }
 
 header {
