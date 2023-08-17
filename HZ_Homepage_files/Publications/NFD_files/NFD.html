@@ -138,6 +138,7 @@
       <font size="+2">
             <p style="text-align: center;">
               <a href="https://drive.google.com/file/d/1kKA9cXhnnPnpmynfqcdmuraMY9XltUJC/view?usp=sharing" target="_blank">[Paper]</a> 
+              <a href="https://github.com/SoldierDown/Non_Ficks_Diffusion/tree/hydrogel_nova" target="_blank">[Code]</a> 
             </p>
       </font>
   </div>
@@ -159,13 +160,85 @@
     <p>Our Cut-Mix-Unmix data-augmentation method enables <b>Multi-Subject Generation</b>. We manually create image-prompt pairs using CutMix-like data augmentation and train the model to separate different concepts by presenting explicit mixed samples. To enforce separation, we apply MSE on non-corresponding regions of cross-attention maps, ensuring each subject's token doesn't attend to another subject. At inference, we modify the prompt to generate a new composition.</p>
     <img class="summary-img" src="./AULMPM_files/approach_cmu.png" style="width:100%;"> <br>
   </div> -->
-  
+  <div align="center">
+    <iframe width="1000" height="800" src="https://www.youtube.com/embed/o2N9HkUCk4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
   <!-- Results: SINE -->
-  <!-- <div class="content">
-    <h2>Single-Image Editing</h2>
-    <p>Our <b>single image editing</b> results show that our method allows successful image edits, even with slight misalignments. It performs well in tasks such as object removal, pose adjustment, and zooming when compared to full model fine-tuning. While backgrounds may be affected, the main subject remains well-preserved. We utilize DDIM inversion for most edits.</p>
-  <img class="summary-img" src="./AULMPM_files/result_cosine.png" style="width:100%;">
-  </div> -->
+  <div class="content">
+    <h2>Gallery</h2>
+    <br>
+    <table width="100%" border="0">
+      <tr>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_200_001_resized.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_200_002_resized.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_200_003_resized.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_200_007_resized.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_200_017_resized.png" style="width:100%;"></td>
+        </tr>
+    </table>
+    <table width="100%" border="0">
+      <tr>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_200_006_resized.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_200_008_resized.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_200_009_resized.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_200_011_resized.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_200_014_resized.png" style="width:100%;"></td>
+        </tr>
+    </table>
+    <table width="100%" border="0">
+      <tr>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_40_001.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_40_006.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_40_012.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_40_022.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_F_E_40_040.png" style="width:100%;"></td>
+        </tr>
+    </table>
+    <table width="100%" border="0">
+      <tr>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_40_009.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_40_015.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_40_025.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_40_055.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/hydrogel_NF_E_40_075.png" style="width:100%;"></td>
+        </tr>
+    </table>
+    Poroelastic material dynamics of a hydrogel driven by fluid absorption, simulated using our proposed method in combination with MPM (512^3 grid resolution). The hydrogel exhibits rich anisotropic deformations with the generalized C-F diffusion model, which qualitatively match real-world observations.
+    <br>
+    <br>
+    <br>
+    <table width="100%" border="0">
+      <tr>
+        <td><img class="summary-img" src="./images/smoke_no_diffusion.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/smoke_F.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/smoke_NF_Fc_0_tau_4_500.png" style="width:100%;"></td>
+        </tr>
+    </table>
+    Simulation of ink diffusing in water using our generalized diffusion solver with F_T = 0 and τ = 4 (256^2 × 512 grid). Interestingly, the C-F diffusion model (right) produces a more vivid behavior, in contrast incompressible flow with no diffusion (left) and Fourier's diffusion (middle) produces an overly diffuse profile.
+    <br>
+    <br>
+    <br>
+    
+    <table width="100%" border="0">
+      <tr>
+        <td><img class="summary-img" src="./images/spray_F.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/spray_NF_tau_9.png" style="width:100%;"></td>
+        <td><img class="summary-img" src="./images/spray_NF_tau_16.png" style="width:100%;"></td>
+        </tr>
+    </table>
+    Simulation of diffusion in a medium with horizontal background flow with uniform velocity. (Left) The traditional Fourier-type diffusion solver produces an overly diffuse profile, since diffusion propagates both upstream and downstream. (Middle and Right) Our generalized diffusion solver produces realistic spray patterns with a limited "conical" diffusive region, as predicted by our diffusion taxonomy for different values of HC in the super-critical diffusive regime.
+    <br>
+    <br>
+    <br>
+
+    <img class="summary-img" src="./images/reef.jpg" style="width:100%;">
+    A coral reef simulated using our generalized phase-field modeling approach. A bump map has been used on the right to mimic a life-like reef structure. The fishes are kinematically scripted to give the appearance of an underwater scenery.
+    <br>
+    <br>
+    <br>
+    <img class="summary-img" src="./images/snowflakes.png" style="width:100%;">
+    Our generalized diffusion solver generates snowflake patterns that can be described by a traditional Fourier-type diffusion solver (top row), but can also capture patterns that cannot be described by the traditional Fourier modeling approach (bottom row), as in this case the governing equations become purely hyperbolic (corresponding to the case F_T = 0) (256^2 grid). However, some of these patterns are indeed observed in the real world.
+</div>
   
   <!-- Results: Single -->
   <!-- <div class="content">
@@ -214,9 +287,7 @@
   </div> -->
   
   
-  <div align="center">
-    <iframe width="1000" height="800" src="https://www.youtube.com/embed/o2N9HkUCk4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  </div>
+
   
   
   <div class="content">
