@@ -203,7 +203,8 @@
         <td><img class="summary-img" src="./images/hydrogel_NF_E_40_075.png" style="width:100%;"></td>
         </tr>
     </table>
-    Poroelastic material dynamics of a hydrogel driven by fluid absorption, simulated using our proposed method in combination with MPM (512^3 grid resolution). The hydrogel exhibits rich anisotropic deformations with the generalized C-F diffusion model, which qualitatively match real-world observations.
+    Poroelastic material dynamics of a hydrogel driven by fluid absorption, simulated using our proposed method in combination with MPM  (<math xmlns="http://www.w3.org/1998/Math/MathML">
+      <msup><mi>512</mi><mn>3</mn></msup></math> grid resolution). The hydrogel exhibits rich anisotropic deformations with the generalized C-F diffusion model, which qualitatively match real-world observations.
     <br>
     <br>
     <br>
@@ -214,7 +215,8 @@
         <td><img class="summary-img" src="./images/smoke_NF_Fc_0_tau_4_500.png" style="width:100%;"></td>
         </tr>
     </table>
-    Simulation of ink diffusing in water using our generalized diffusion solver with F_T = 0 and τ = 4 (256^2 × 512 grid). Interestingly, the C-F diffusion model (right) produces a more vivid behavior, in contrast incompressible flow with no diffusion (left) and Fourier's diffusion (middle) produces an overly diffuse profile.
+    Simulation of ink diffusing in water using our generalized diffusion solver with <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub><mi>F</mi><mi>T</mi> </msub> <mo>=</mo> <mi>4</mi> </math> and τ = 4 (<math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>256</mi><mn>2</mn></msup>512</math> grid). Interestingly, the C-F diffusion model (right) produces a more vivid behavior, in contrast incompressible flow with no diffusion (left) and Fourier's diffusion (middle) produces an overly diffuse profile.
+
     <br>
     <br>
     <br>
@@ -237,7 +239,7 @@
     <br>
     <br>
     <img class="summary-img" src="./images/snowflakes.png" style="width:100%;">
-    Our generalized diffusion solver generates snowflake patterns that can be described by a traditional Fourier-type diffusion solver (top row), but can also capture patterns that cannot be described by the traditional Fourier modeling approach (bottom row), as in this case the governing equations become purely hyperbolic (corresponding to the case F_T = 0) (256^2 grid). However, some of these patterns are indeed observed in the real world.
+    Our generalized diffusion solver generates snowflake patterns that can be described by a traditional Fourier-type diffusion solver (top row), but can also capture patterns that cannot be described by the traditional Fourier modeling approach (bottom row), as in this case the governing equations become purely hyperbolic (corresponding to the case <math xmlns="http://www.w3.org/1998/Math/MathML"> <msub><mi>F</mi><mi>T</mi> </msub> <mo>=</mo> <mi>0</mi> </math>) (<math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>256</mi><mi>2</mi></msup></math> grid). However, some of these patterns are indeed observed in the real world.
 </div>
   
   <!-- Results: Single -->
